@@ -1,4 +1,4 @@
-from codeForTest import climbingLeaderboard
+from ClimbingLeaderboard.codeForTest import climbingLeaderboard
 from unittest import TestCase
 import difflib
 
